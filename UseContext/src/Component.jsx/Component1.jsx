@@ -10,6 +10,6 @@ const Component1 = () => {
         
     </div>
   )
-}
+} 
 
 export default Component1
